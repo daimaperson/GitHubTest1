@@ -13,6 +13,7 @@
 		C6B726C41CFBCF6C00E6EA50 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6B726C21CFBCF6C00E6EA50 /* Main.storyboard */; };
 		C6B726C61CFBCF6C00E6EA50 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C6B726C51CFBCF6C00E6EA50 /* Assets.xcassets */; };
 		C6B726C91CFBCF6C00E6EA50 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6B726C71CFBCF6C00E6EA50 /* LaunchScreen.storyboard */; };
+		C6B726D21CFBD1E300E6EA50 /* gggViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C6B726D11CFBD1E300E6EA50 /* gggViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		C6B726C51CFBCF6C00E6EA50 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C6B726C81CFBCF6C00E6EA50 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C6B726CA1CFBCF6C00E6EA50 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C6B726D01CFBD1E300E6EA50 /* gggViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = gggViewController.h; sourceTree = "<group>"; };
+		C6B726D11CFBD1E300E6EA50 /* gggViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = gggViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				C6B726BD1CFBCF6C00E6EA50 /* AppDelegate.m */,
 				C6B726BF1CFBCF6C00E6EA50 /* ViewController.h */,
 				C6B726C01CFBCF6C00E6EA50 /* ViewController.m */,
+				C6B726D01CFBD1E300E6EA50 /* gggViewController.h */,
+				C6B726D11CFBD1E300E6EA50 /* gggViewController.m */,
 				C6B726C21CFBCF6C00E6EA50 /* Main.storyboard */,
 				C6B726C51CFBCF6C00E6EA50 /* Assets.xcassets */,
 				C6B726C71CFBCF6C00E6EA50 /* LaunchScreen.storyboard */,
@@ -151,6 +156,7 @@
 			files = (
 				C6B726C11CFBCF6C00E6EA50 /* ViewController.m in Sources */,
 				C6B726BE1CFBCF6C00E6EA50 /* AppDelegate.m in Sources */,
+				C6B726D21CFBD1E300E6EA50 /* gggViewController.m in Sources */,
 				C6B726BB1CFBCF6C00E6EA50 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
